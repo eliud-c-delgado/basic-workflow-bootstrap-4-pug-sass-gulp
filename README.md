@@ -12,3 +12,8 @@ Just download, unzip it and install the dependencies using NPM, tweak the gulpfi
 
 Feel free to comment and contribute.
 
+### Inspiration 
+ 
+ - Bootstrap Starter Template: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+ - HTML5 Boilerplate: https://html5boilerplate.com
+
